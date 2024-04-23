@@ -1,2 +1,2 @@
 # EPIC_LAB
-epic lab
+Hip Exoskeleton Controls Team Toolbox Code
